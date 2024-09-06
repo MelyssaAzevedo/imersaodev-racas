@@ -2,6 +2,8 @@
 
 ### **Sobre o Projeto**
 
+https://imersaodev-racas.vercel.app/
+
 Este projeto simples e divertido tem como objetivo ajudar os amantes de gatos a encontrarem informações sobre as diversas raças felinas. Com uma interface intuitiva, o usuário pode pesquisar por raças específicas e encontrar detalhes como descrição, características e links para mais informações.
 
 ### **Funcionalidades**
@@ -46,10 +48,5 @@ Se você quiser contribuir para este projeto, fique à vontade para enviar um pu
 **Licença:**
 
 Este projeto está sob a licença MIT.
-
-**Agradecimentos:**
-
-* A todos os amantes de gatos que contribuíram para a criação deste projeto.
-* À comunidade open-source por fornecer ferramentas e recursos incríveis.
 
 **Observação:** Este README foi criado com um tom descontraído e informativo, visando atrair a atenção de outros desenvolvedores e entusiastas de gatos. Você pode personalizar ainda mais este README para torná-lo mais específico para o seu projeto.
