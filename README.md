@@ -1,4 +1,5 @@
 ## **README.md: Raças de Gatos - Uma Busca Felina** 
+Com a ajuda da Imersão Dev e Google Gemini
 
 ### **Sobre o Projeto**
 
